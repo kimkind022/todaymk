@@ -8,11 +8,11 @@
 
 ## 프로젝트 개요
 
-- 프로젝트명
+- 프로젝트명 : 오늘의 마켓
 
-- 참여 인원
+- 참여 인원 : 3인
 
-- 개발 기간
+- 개발 기간 : 2022-07-21 ~ 2022-11-04
 
 - 주제
 
@@ -22,15 +22,17 @@
 
 ## 개발 환경
 
-- Frontend: javascript, jQuery, bootstrap, HTML/CSS
+- Frontend: JSP, javascript/jQuery, HTML/CSS
 
-- Backend: Java, Spring framework, Python
+- Backend: Java, MVC2, MyBatis
 
-- Database: Oracle, SQL
+- Database: MySQL
+
+- Libraries : MySQL-connector , cos , Gson / JSON-simple , JSTL / standard 
 
 - ETC: Apache Tomcat
 
-- API: Kakao Map, Google Vision(OCR), Twilio SMS
+- API: Kakao Map, slick-slider, daum-api, Google-api, kamis-api, 국토교통부_시군구
 
 &nbsp;
 
